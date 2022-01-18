@@ -1,0 +1,29 @@
+Analyzing Company Filings for Stock Selection - Laura Jehl | PyData Global 2021
+https://www.youtube.com/watch?v=nvr6pqvWdNc
+
+00:00 - Introduction
+00:40 - Begin of presentation
+01:25 - Textual Data Provide Information about Stock Prices
+02:54 - Stock Selection Model: calculation example
+03:33 - Factor overview of latest alpha model
+04:14 - Adding textual information
+05:00 - Conpany Regulatory Filings
+06:32 - Reporting Volume
+07:10 - Reporting Intensity
+07:56 - What's in the reports?
+08:28 - Document Processing Pipeline
+10:40 - Section Extraction Coverage
+11:20 - Callenges
+11:58 - Text-based Signals
+13:56 - Text Processing Pipline
+14:45 - Example: Sentiment
+15:23 - Example: Readablity
+16:10 - Similarity Example
+17:11 - Covid-19 as a risk factor
+18:15 - Potential of Textual Signal from Company Filings
+19:13 - Challenges for simple textual metrics
+20:08 - Example: Competitiveness
+21:08 - Who viewed Amazon as a competitor in 2019?
+21:54 - Challenges when using competitiveness
+22:45 - Conclusion
+23:54 - Q&A
