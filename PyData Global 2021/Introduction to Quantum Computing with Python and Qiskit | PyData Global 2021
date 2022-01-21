@@ -1,0 +1,23 @@
+Introduction to Quantum Computing with Python and Qiskit | PyData Global 2021
+https://www.youtube.com/watch?v=ldX75svJx8M
+
+00:06 - Begin of presentation
+00:38 - Agenda
+01:09 - Introduction
+01:45 - What is Quantum Computing?
+03:27 - Quantim Computing vs Classical Computin
+06:49 - Real world applications
+07:15 - Communications
+08:02 - Cybersecurity
+09:03 - IBM Quantum
+10:00 - Composer(UI)
+10:10 - OpenQASM vs Qiskit
+11:50 - Start coding with Python in Quantum Lab
+12:36 - Qiskit
+13:00 - Quantum Coding through Jupyter Notebooks
+13:25 - First step
+13:35 - Backend Options
+15:00 - Base Circuit
+15:55 - Visualization
+16:52 - Results (State Vector vs QASM)
+23:00 - Next Stepps
