@@ -1,0 +1,31 @@
+Machine Learning in Health: Predicting Pregnancy Complications | PyData Global 2021
+
+https://www.youtube.com/watch?v=h3pcKTTDmuY
+
+
+00:20 - Begin of presentation
+01:02 - Personal introduction
+01:47 - Content
+02:40 - PreFree is ...
+03:08 - Medical background - Preeclampsia
+03:45 - Preeclampsia, Unspecific Symptoms - Devastating Complications
+05:20 - Current Care Path
+06:31 - User Research Confirms ..
+07:14 - PreFree Solution for Patient-Centered Care
+08:15 - PreFree Application
+09:48 - Physicain Frontend
+10:41 - Mobile Application
+11:00 - Data
+13:22 - Modelling - goal
+13:38 - Modelling - workflow
+15:29 - Modelling - feature selection
+16:50 - Modelling - handling missing values
+17:25 - Modelling - feature engineering
+19:43 - Modelling - model selection
+21:12 - Modelling - final step: hyperparameter tuning
+21:22 - Modelling - results
+21:39 - Modelling - attempt to quantify generalisation variance
+23:30 - Modelling - upcoming
+24:07 - Modelling - deployment!
+24:22 - Data Protection
+25:50 - We are interested in ... 
