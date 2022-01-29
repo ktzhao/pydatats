@@ -1,0 +1,24 @@
+Getting Started with Dask Using Saturn Cloud - Mitali Sanwal | PyData Global 2021
+https://www.youtube.com/watch?v=G303aRAwsoE
+
+00:15 - Begin of presentation
+00:29 - What is parallel computing?
+01:26 - Parallel Computing in Data Science (Why we need & What can we do)
+02:22 - What is Dask?
+04:40 - Data set
+05:02 - Dask Networks 
+05:40 - User Interfaces
+07:05 - Dask DataFrame
+09:07 - Dask Array
+10:06 - Dask Bags
+11:16 - Dask Delayed
+14:33 - Dask Futures
+15:38 - How to get started with Dask on Saturn Cloud
+18:25 - Accessing cluster from inside jupyter notebook
+18:58 - Dask Dashboard
+20:30 - Examples of Power of Dask
+20:40 - Hyperparameter Tuning
+21:50 - RAPIDS $ Dask
+23:34 - DASK + PyTorch
+24:19 - Wrapping it up
+25:00 - end
