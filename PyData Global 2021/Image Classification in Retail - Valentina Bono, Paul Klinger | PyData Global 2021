@@ -1,0 +1,21 @@
+Image Classification in Retail - Valentina Bono, Paul Klinger | PyData Global 2021
+https://www.youtube.com/watch?v=QVSdwtFN8uI
+
+00:05 - Introduction
+00:35 - Begin
+01:35 - Data Science at Tesco
+02:50 - What? Image Classification
+05:46 - Data sources: checkout data and CCTV videos
+06:58 - Unanticipated situations: Empyt checkout
+07:15 - Unanticipated situations: Covered checkout
+07:35 - Unanticipated situations: what class?
+06:58 - Unanticipated situations: Empyt checkout
+08:07 - Unanticipated situations: loose versus packaged
+08:51 - Unanticipated situations: verown bag
+09:30 - Label quality: how to improve the labels
+11:45 - Dealing with imbalanced datasets
+14:38 - Recalibrating models to a new distribution
+17:44 - Distribution invariant metrics?
+19:38 - Distribution shift
+23:28 - Q&A
+
