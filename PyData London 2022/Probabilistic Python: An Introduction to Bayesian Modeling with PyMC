@@ -1,1 +1,14 @@
-00:00 Welcome!
+Probabilistic Python: An Introduction to Bayesian Modeling with PyMC | Pydata London 2022
+
+https://www.youtube.com/watch?v=911d4A1U0BE
+
+00:00 - Begin of presentation
+01:20 - Introduction to Probabilistic Programming
+03:00 - Bayesian Inference
+06:21 - Stochastic Program
+06:50 - Prior Distribution
+08:15 - Likelihood Function
+09:28 - Infer Values for Latent Variables
+09:51 - Posterior Distribution
+12:17 - Conjugacy
+13:14 - Binomial Distribution and Beta Distribution
