@@ -17,6 +17,7 @@ Contents
 0:10 Musical Julia - The Journey
 
 0:38 The Little Book Of Julia Algorithms
+
 0:47 Introduction to Western and Indian Musical Notation
 1:30 Musical Julia - Understanding the problem
 1:17 Musical Julia - Solving the problem using an if-else loop
