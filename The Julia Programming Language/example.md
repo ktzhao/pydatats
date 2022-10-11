@@ -1,13 +1,21 @@
 
 References:
+
 Speaker: Radhika Ivaturi
+
 Video title: Musical Julia | Radhika Ivaturi | JuliaCon2021
+
 Link: https://www.youtube.com/watch?v=S2DgKcndHr0
+
 Link to the code: https://github.com/RadsPad7/MusicalJulia
 
+
 Contents
+
 0:00 Welcome
+
 0:10 Musical Julia - The Journey
+
 0:38 The Little Book Of Julia Algorithms
 0:47 Introduction to Western and Indian Musical Notation
 1:30 Musical Julia - Understanding the problem
