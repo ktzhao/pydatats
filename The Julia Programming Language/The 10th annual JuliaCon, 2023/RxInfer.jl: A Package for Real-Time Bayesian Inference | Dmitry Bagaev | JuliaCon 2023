@@ -1,0 +1,23 @@
+References:
+Speaker: Dmitry Bagaev
+Video title: RxInfer.jl: A Package for Real-Time Bayesian Inference | Dmitry Bagaev | JuliaCon 2023
+Link: https://www.youtube.com/watch?v=qXrvDVm_fnE
+
+
+Contents
+00:05 0 Introduction
+01:04 1 What is Bayesian Inference
+03:21 2 Scalable, Reactive, and Efficient
+05:50 3 What can you do with RxInfer
+06:04 3.1 Continual Inference in Non-Linear Dynamical Systems with Infinite Data Streams
+07:14 3.2 Real-time Reactive Decision Making With Sctive Inference
+08:46 3.3 Smart Naviation and Collision Sboidance
+09:50 3.4 Adaptive Audio Source Separation
+11:03 3.5 Efficient Inference on Low-Power devices without GPU
+12:58 3.6 Other Examples
+14:45 4 Architecture And Design Principles
+14:50 4.1 Reactive Programming
+16:09 4.2 Computational Factor Graphs
+17:37 4.3 Reactive Message Passing
+20:33 5 How Does RxInfer compare to Turing
+22:28 6 Overview

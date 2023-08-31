@@ -1,0 +1,13 @@
+References:
+Speaker: Jon Doucett
+Video title: Ignite.jl: A Brighter Way to Train Neural Networks | Jon Doucette | JuliaCon 2023
+Link: https://www.youtube.com/watch?v=kU__xWBZvxw
+
+
+Contents
+00:02 0 Introduction
+00:33 1 Motivation
+05:20 2.1 Ignite.jl: events and handlers
+10:34 2.2 Ignite.jl: features
+17：02 3 Conclusion
+18:19 4 Examples

@@ -1,0 +1,37 @@
+References:
+Speaker: Steffen Fürst
+Video title: Vahana.jl - A Framework for Large-Scale Agent-Based Models | Steffen Fürst | JuliaCon 2023
+Link: https://www.youtube.com/watch?v=-318ec-kCBM
+
+
+Contents
+00:05 0 Outline
+00:57 1 Motivation
+00:58 1.1 Key Aspects of Agent-Based Modeling(ABM)
+01:54 1.2 ABM Frameworks & HPC
+02:56 2 Introducing Vahana
+03:27 2.1 (Synchronious) Graph Dynamical Systems (GDS)
+04:06 2.2 Vahana's SyGDS Extension
+
+04:40 2.3 Graph Example
+05:15 2.4 Graph Example / Vahana Implenmentation
+07:00 2.5 Transition Functions
+08:00 2.6 Transition Functions Example
+08:13 2.7  Transition Functions Example / Vahana Implenmentation 
+10:22 2.8 Utilizing Edges for Different Purposes
+11:11 3 Code Generation
+11:42 3.1 Code Generation Example: Edge Hints
+13:16 3.2 Code Generation Example: add_edge!
+13:47 4 Performance Results
+13:53 4.1 Hegselmann-Krause (HK) Opinion Model
+14:19 4.2 Different Graph Structures used in the Perforemance Analysis
+15:45 4.3 Comparison of Single Thread Performance for Complete Graphs
+16:20 4.4 Single Thread Performance for Regular and Clique Graphs
+16:33 4.5 Parallelization Performance of the HK Model
+17:08 4.5 MATSim Episim
+17:55 4.6 MATSim Episim Scenarios
+18:35 4.7 Parallelization Performance of Vahana's Episim Implenmentation
+19:57 5 Adding a Spatial Dimension
+20:54 5.1 Finding Neighbors
+22:00 6 Integration into the Julia Ecosystem
+24:15 7 Summary

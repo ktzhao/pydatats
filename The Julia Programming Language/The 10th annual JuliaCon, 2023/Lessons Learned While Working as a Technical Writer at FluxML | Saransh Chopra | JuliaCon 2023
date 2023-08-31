@@ -1,0 +1,13 @@
+References:
+Speaker: Saransh Chopra
+Video title: Lessons Learned While Working as a Technical Writer at FluxML | Saransh Chopra | JuliaCon 2023
+Link: https://www.youtube.com/watch?v=ieAjBVUl0tg
+
+Contents
+00:03 0 Introduction
+00:16 Lesson 1: Clever documentation will push away beginners and newcomers
+01:25 Lesson 2: There are no "perfect" docstrings
+02:06 Lesson 3: Doctests make documentation much more maintainable in the longer run
+03:36 Lesson 4: Broken cross-references and links are a big let down for everyone
+04:43 Lesson 5: Scattered docs make it really hard to navitate to the right content, driving away beginners from your package
+06:44 Lesson 6: Utility infrastructure for documentation will make your life smooth and investing your time in developing it is worth it
