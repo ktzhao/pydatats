@@ -1,0 +1,17 @@
+References:
+Speaker: Eduardo M. G. Vila
+Video title: What's New with Progradio.jl - Projected Gradient Optimization | Eduardo M. G. Vila | JuliaCon 2023
+Link: https://www.youtube.com/watch?v=EZ2kq0Obaio
+
+
+Contents
+
+00:04 0 Introduction
+00:06 1 What's new with Progradio.jl - Projected Gradient Optimization in Julia
+02:01 2 JuDO - Julia for Dynamic Optimization 
+02:54 3 Updates from Last Year's Release
+03:12 4 Quasi-Wolfe Line Search
+06:53 5 Simplex Constraints 
+08:00 6 Changes to Problem Structure
+08:41 7 Upcomong Changes & Future Work
+09:36 8 Q&A
