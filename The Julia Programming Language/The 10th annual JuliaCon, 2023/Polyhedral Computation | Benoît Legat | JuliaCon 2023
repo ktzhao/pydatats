@@ -1,0 +1,15 @@
+References:
+Speaker: Benoît Legat
+Video title: Polyhedral Computation | Benoît Legat | JuliaCon 2023
+Link: https://www.youtube.com/watch?v=YuxJtvgg6uc
+
+Contents
+
+00:04 0 Introduction
+00:16 1 What is Polyhedral Computation
+01:00 2 What is it used for
+01:40 3 Which libraries exists
+02:01 4 Fastest algorithm depend on the class of polyhedra
+04:16 5 Just In Time representation conversion
+05:14 6 Polyhedra.jl interface
+06:16 7 Q&A
