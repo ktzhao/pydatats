@@ -1,0 +1,29 @@
+References:
+Speaker: Alexander Leong
+Video title: MRI Compressed Sensing and Denoising in Julia | Alexander Leong | JuliaCon 2023
+Link: https://www.youtube.com/watch?v=dOsuIBUUDc4
+
+
+Contents
+00:06 0 Introduction
+00:48 1 Overview
+02:20 2 Prelude - Compressed sensing
+04:53 3 Singular Value Decomposition - Recap
+06:27 4 MRI reconstruction - general idea
+07:32 5 Original Image
+08:20 6 Singular Value Thresholding (SVT) for MRI Applications
+09:16 7 SVT Image
+10:37 8 Blocked SVT for MRI Applications
+12:02 9 Blocked SVT Image
+12:34 10 What about Mixing and Matching?
+13:11 11 Original JPEG(left image) vs Blocked SVT JPEG (right image)
+13:29 12 Anisotropic Total Variation (TV) Denoising Goldstein and Osher
+16:26 13 Isotropic TV Denosing Goldstein and Osher
+17:21 14 Reflection
+17:48 15 MRICompress.jl
+18:53 16 Data Flow
+19:39 17 Deployment
+20:10 18 Project Dependencies
+20:53 19 Yet to cover many other methods
+22:24 20 References
+23:00 21 Q&A
