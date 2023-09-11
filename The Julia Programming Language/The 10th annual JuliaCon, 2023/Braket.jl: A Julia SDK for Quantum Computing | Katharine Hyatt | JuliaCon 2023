@@ -1,0 +1,28 @@
+References:
+Speaker: Katharine Hyatt
+Video title: Braket.jl: A Julia SDK for Quantum Computing | Katharine Hyatt | JuliaCon 2023
+Link: https://www.youtube.com/watch?v=80bTke4tjPs
+
+
+Contents
+00:06 0 Introduction
+00:42 1 Begin of the lecture
+01:31 2 Who am I
+02:03 3 Introduction to Amazon Braket
+02:40 3.1 Amazon Braket - the AWS quantum computing service
+03:21 3.2 Architecture of the service
+04:31 3.3 Available Quantum Devices
+05:25 3.4 Local and on-demand simulators
+05:51 3.5 High level view of Braket SDK components
+07:48 4 Introducing Braket.jl
+07:57 4.1 An experimental Julia SDK for Amazon Braket  
+09:42 4.2 Building and running gate-based circuits
+11:16 4.3 Building and running analog Hamiltonian simulations
+12:23 4.4 Running dedicated "jobs" - end to end experiments
+13:51 5 How can you get involved?
+14:12 5.1 Integrating with other Julia packages
+17:00 5.2 We are looking foer contributors!
+19:02 5.3 Academic research & open source credits
+20:52 6 Come work with us at the Saturday hackathon!
+21:17 6.1 Where do we go from here?
+23:29 7 Q&A
